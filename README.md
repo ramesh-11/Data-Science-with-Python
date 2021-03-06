@@ -14,8 +14,11 @@
 
 # Tutorials
 - https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
-- https://www.kaggle.com/abdullahabid10/titanic-survival-prediction-complete-tutorial/notebook
 - https://www.kaggle.com/getting-started/114864
 - https://www.kaggle.com/ashishpatel26/useful-data-science-notebooks-from-github
 - https://analyticsindiamag.com/top-ten-kaggle-notebooks-for-data-science-enthusiasts-in-2021/
 - https://elitedatascience.com/beginner-kaggle
+
+# Notebook
+- https://www.kaggle.com/abdullahabid10/titanic-survival-prediction-complete-tutorial/notebook
+- https://www.kaggle.com/startupsci/titanic-data-science-solutions
