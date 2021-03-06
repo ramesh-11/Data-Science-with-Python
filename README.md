@@ -4,6 +4,7 @@
 - [x] Pandas: https://pandas.pydata.org/
 - [x] Matplotlib: https://matplotlib.org/
 - [x] Seaborn: https://seaborn.pydata.org/
+- [ ] Scipy: https://www.scipy.org/
 - [ ] Sci-kit Learn: https://scikit-learn.org/stable/
 - [ ] Nltk: https://www.nltk.org/
 - [ ] Opencv: https://opencv-python-tutroals.readth...
