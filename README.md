@@ -6,3 +6,7 @@
 - [x] Seaborn: https://seaborn.pydata.org/
 - [ ] Nltk: https://www.nltk.org/
 - [ ] Opencv: https://opencv-python-tutroals.readth...
+
+# Tutorials
+- https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
+- https://www.kaggle.com/abdullahabid10/titanic-survival-prediction-complete-tutorial/notebook
