@@ -4,8 +4,12 @@
 - [x] Pandas: https://pandas.pydata.org/
 - [x] Matplotlib: https://matplotlib.org/
 - [x] Seaborn: https://seaborn.pydata.org/
+- [ ] Sci-kit Learn: https://scikit-learn.org/stable/
 - [ ] Nltk: https://www.nltk.org/
 - [ ] Opencv: https://opencv-python-tutroals.readth...
+- [ ] Tensorflow: https://www.tensorflow.org/
+- [ ] Keras: https://keras.io/
+- [ ] PyTorch: https://pytorch.org/
 
 # Tutorials
 - https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
