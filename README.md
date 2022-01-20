@@ -12,6 +12,7 @@
 - [ ] Tensorflow: https://www.tensorflow.org/
 - [ ] Keras: https://keras.io/
 - [ ] PyTorch: https://pytorch.org/
+- [ ] Tableau: https://www.tableau.com/
 
 # Tutorials
 - https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
