@@ -1,4 +1,4 @@
-# Data-Science-with-Python
+# Python-for-DataScience-and-MachineLearning
 
 # Libraries
 - [x] Numpy: https://numpy.org/
