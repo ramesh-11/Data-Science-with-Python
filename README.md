@@ -24,3 +24,7 @@
 # Notebook
 - https://www.kaggle.com/abdullahabid10/titanic-survival-prediction-complete-tutorial/notebook
 - https://www.kaggle.com/startupsci/titanic-data-science-solutions
+
+# Projects
+- [1] SF Salaries
+- 
