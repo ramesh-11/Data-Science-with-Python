@@ -26,5 +26,5 @@
 - https://www.kaggle.com/startupsci/titanic-data-science-solutions
 
 # Projects
-[1] SF Salaries
+1. SF Salaries
 
