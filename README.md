@@ -26,5 +26,5 @@
 - https://www.kaggle.com/startupsci/titanic-data-science-solutions
 
 # Projects
-1. SF Salaries
+1. [SF Salaries](https://www.kaggle.com/kaggle/sf-salaries)
 1. Ecommerce Purchases
