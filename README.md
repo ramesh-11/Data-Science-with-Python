@@ -5,6 +5,8 @@
 - [x] Pandas: https://pandas.pydata.org/
 - [x] Matplotlib: https://matplotlib.org/
 - [x] Seaborn: https://seaborn.pydata.org/
+- [x] plotly
+- [x] cufflinks
 - [ ] Scipy: https://www.scipy.org/
 - [ ] Sci-kit Learn: https://scikit-learn.org/stable/
 - [ ] Nltk: https://www.nltk.org/
