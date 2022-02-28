@@ -1,20 +1,20 @@
 # Python-for-DataScience-and-MachineLearning
 
 # Libraries
-- [x] [Numpy](https://numpy.org/)
-- [x] [Pandas](https://pandas.pydata.org/)
-- [x] [Matplotlib](https://matplotlib.org/)
-- [x] [Seaborn](https://seaborn.pydata.org/)
+- [x] [numpy](https://numpy.org/)
+- [x] [pandas](https://pandas.pydata.org/)
+- [x] [matplotlib](https://matplotlib.org/)
+- [x] [seaborn](https://seaborn.pydata.org/)
 - [x] [plotly](https://plotly.com/python/getting-started/#:~:text=The%20plotly%20Python%20library%20is,3%2Ddimensional%20use%2Dcases.)
 - [x] [cufflinks](https://github.com/santosjorge/cufflinks)
-- [ ] [Scipy](https://www.scipy.org/)
-- [ ] [Sci](it Learn: https://scikit-learn.org/stable/)
-- [ ] [Nltk](https://www.nltk.org/)
-- [ ] [Opencv](https://opencv-python-tutroals.readth...)
-- [ ] [Tensorflow](https://www.tensorflow.org/)
-- [ ] [Keras](https://keras.io/)
-- [ ] [PyTorch](https://pytorch.org/)
-- [ ] [Tableau](https://www.tableau.com/)
+- [ ] [scipy](https://www.scipy.org/)
+- [ ] [scikit-learn](https://scikit-learn.org/stable/)
+- [ ] [nltk](https://www.nltk.org/)
+- [ ] [opencv](https://opencv-python-tutroals.readth...)
+- [ ] [tensorflow](https://www.tensorflow.org/)
+- [ ] [keras](https://keras.io/)
+- [ ] [pyTorch](https://pytorch.org/)
+- [ ] [tableau](https://www.tableau.com/)
 
 # Tutorials
 - https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
