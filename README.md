@@ -8,7 +8,7 @@
 - [x] [plotly](https://plotly.com/python/getting-started/#:~:text=The%20plotly%20Python%20library%20is,3%2Ddimensional%20use%2Dcases.)
 - [x] [cufflinks](https://github.com/santosjorge/cufflinks)
 - [ ] [scipy](https://www.scipy.org/)
-- [ ] [scikit-learn](https://scikit-learn.org/stable/)
+- [x] [scikit-learn](https://scikit-learn.org/stable/)
 - [ ] [nltk](https://www.nltk.org/)
 - [ ] [opencv](https://opencv-python-tutroals.readth...)
 - [ ] [tensorflow](https://www.tensorflow.org/)
