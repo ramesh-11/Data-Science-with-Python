@@ -29,4 +29,3 @@
 
 # Projects
 1. [SF Salaries](https://www.kaggle.com/kaggle/sf-salaries)
-1. Ecommerce Purchases
