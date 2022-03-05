@@ -4,6 +4,7 @@
 ### Data Analysis
 - [x] [numpy](https://numpy.org/)
 - [x] [pandas](https://pandas.pydata.org/)
+- [ ] [scipy](https://www.scipy.org/)
 ### Data Visualization
 - [x] [matplotlib](https://matplotlib.org/)
 - [x] [seaborn](https://seaborn.pydata.org/)
@@ -11,13 +12,17 @@
 - [x] [cufflinks](https://github.com/santosjorge/cufflinks)
 ### Machine Learning
 - [x] [scikit-learn](https://scikit-learn.org/stable/)
-- [ ] [scipy](https://www.scipy.org/)
+### Natural Language Processing
 - [ ] [nltk](https://www.nltk.org/)
+### Image Processing
 - [ ] [opencv](https://opencv-python-tutroals.readth...)
+### Neural Nets and Deep Learning
 - [ ] [tensorflow](https://www.tensorflow.org/)
 - [ ] [keras](https://keras.io/)
 - [ ] [pyTorch](https://pytorch.org/)
+### Data Visualization Tool
 - [ ] [tableau](https://www.tableau.com/)
+
 
 # Tutorials
 - https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
