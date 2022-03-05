@@ -12,6 +12,7 @@
 - [x] [cufflinks](https://github.com/santosjorge/cufflinks)
 ### Machine Learning
 - [x] [scikit-learn](https://scikit-learn.org/stable/)
+- [ ] WEKA
 ### Natural Language Processing
 - [ ] [nltk](https://www.nltk.org/)
 ### Image Processing
@@ -22,7 +23,9 @@
 - [ ] [pyTorch](https://pytorch.org/)
 ### Data Visualization Tool
 - [ ] [tableau](https://www.tableau.com/)
-
+### Big Data
+- [ ] [Hadoop](https://hadoop.apache.org/)
+- [ ] [Spark](https://spark.apache.org/)
 
 # Tutorials
 - https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
