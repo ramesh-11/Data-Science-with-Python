@@ -12,7 +12,6 @@
 - [x] [cufflinks](https://github.com/santosjorge/cufflinks)
 ### Machine Learning
 - [x] [scikit-learn](https://scikit-learn.org/stable/)
-- [ ] WEKA
 ### Natural Language Processing
 - [ ] [nltk](https://www.nltk.org/)
 ### Image Processing
