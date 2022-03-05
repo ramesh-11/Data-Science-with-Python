@@ -15,7 +15,7 @@
 ### Natural Language Processing
 - [ ] [nltk](https://www.nltk.org/)
 ### Image Processing
-- [ ] [opencv](https://opencv-python-tutroals.readth...)
+- [ ] [opencv](https://opencv.org/)
 ### Neural Nets and Deep Learning
 - [ ] [tensorflow](https://www.tensorflow.org/)
 - [ ] [keras](https://keras.io/)
