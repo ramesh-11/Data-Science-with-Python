@@ -1,12 +1,15 @@
 # Python-for-DataScience-and-MachineLearning
 
 # Libraries
+### Data Analysis
 - [x] [numpy](https://numpy.org/)
 - [x] [pandas](https://pandas.pydata.org/)
+### Data Visualization
 - [x] [matplotlib](https://matplotlib.org/)
 - [x] [seaborn](https://seaborn.pydata.org/)
 - [x] [plotly](https://plotly.com/python/getting-started/#:~:text=The%20plotly%20Python%20library%20is,3%2Ddimensional%20use%2Dcases.)
 - [x] [cufflinks](https://github.com/santosjorge/cufflinks)
+### Machine Learning
 - [x] [scikit-learn](https://scikit-learn.org/stable/)
 - [ ] [scipy](https://www.scipy.org/)
 - [ ] [nltk](https://www.nltk.org/)
