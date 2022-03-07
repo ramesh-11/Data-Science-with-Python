@@ -37,5 +37,15 @@
 - https://www.kaggle.com/abdullahabid10/titanic-survival-prediction-complete-tutorial/notebook
 - https://www.kaggle.com/startupsci/titanic-data-science-solutions
 
+### Python refrences
+- https://docs.python.org/3/tutorial/
+- http://net-informations.com/python/default.htm
+
+### Data Science and ML refrences
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+- https://stanford.edu/~shervine/teaching/cs-229/
+- https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
+
+
 # Projects
 1. [SF Salaries](https://www.kaggle.com/kaggle/sf-salaries)
